@@ -53,4 +53,4 @@ function distanciaMatriz(tam, x, y) {
     if (resultx < resulty)
         return resultx;
     return resulty;
-}
+} //teste
